@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE06ISSM-MFD35-04-ADCPTM000-recovered_inst-adcpt_m_instrument_dspec_recovered
 data_stream: CE06ISSM-MFD35-04-ADCPTM000-recovered_inst-adcpt_m_instrument_dspec_recovered
 end_date: '2021-09-20T16:00:00.000Z'
-last_updated: '2022-02-10T15:59:10.734765Z'
+last_updated: '2022-02-10T16:03:53.371030'
 start_date: '2014-10-08T05:50:00.000Z'
-status: pending
+status: success
